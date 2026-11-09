@@ -16,4 +16,5 @@ set(CMAKE_CXX_STANDARD 17)
 file(GLOB_RECURSE SOURCES "*.cpp" "*.h")
 
 
-add_executable(oopA2 ${SOURCES})
+add_executable(oopA2 ${SOURCES}
+        CPU.cpp)
