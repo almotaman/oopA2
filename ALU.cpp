@@ -3,7 +3,7 @@
 #include <iomanip>
 #include <bitset>
 #include <cmath>
-#include <cstdint>.
+#include <cstdint>
 
 static int hexToDecimal(const std::string& hexStr) {
     int val;
