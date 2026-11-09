@@ -14,4 +14,5 @@ add_executable(oopA2
         RegisterFile.cpp
         RegisterFile.h
         Memory.h
+        Memory.cpp
 )
