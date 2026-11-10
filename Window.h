@@ -29,6 +29,7 @@ private:
     QPushButton* resetButton;
 
     int currentStepCount;
+    bool isRunning;
     string loadedFilePath;
     vector<string> initialMemorySnapshot;
 
