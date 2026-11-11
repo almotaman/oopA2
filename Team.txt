@@ -1,0 +1,16 @@
+========================================================================
+                        TEAM INFORMATION
+========================================================================
+
+Course: CS213 - Object-Oriented Programming (Assignment 2)
+Section: Section 9
+Project: Vole Machine Simulator (GUI Part 3)
+
+Team Members:
+1. Name: AlMotaman Abdalbegy Osman Talballa   | ID: 20253047
+2. Name: Mohammed Faisal Elmoftah Norelhuda   | ID: 20253031
+3. Name: Turki Osman Mohamed Nur              | ID: 20230810
+4. Name: Abdelrahman Ali Abdelrahman Mohamed  | ID: 20253015
+
+GitHub Repository:
+https://github.com/almotaman/oopA2.git
